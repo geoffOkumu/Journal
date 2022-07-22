@@ -1,0 +1,4 @@
+301:
+  ^\/articles\/([a-z0-9-]+)\/$: /$1
+  ^\/work\/([a-z0-9-]+)\/$: /$1
+  /contact: /contact-us
